@@ -6841,6 +6841,18 @@ button.bg-danger:focus {
 }
 
 
+.bg-java {
+  background-color: #83F360 !important;
+}
+
+a.bg-danger:hover,
+a.bg-danger:focus,
+button.bg-danger:hover,
+button.bg-danger:focus {
+  background-color: #bd2130 !important;
+}
+
+
 .bg-light {
   background-color: #ffffff !important;
 }
